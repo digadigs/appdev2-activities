@@ -1,0 +1,20 @@
+Question:
+Our IT company embarked on an ambitious project in January 2024 aimed at delivering a cutting-edge software solution to our users and clients.
+The project was meticulously planned with a target launch date of June 1. However, as the deadline approaches, 
+it becomes apparent that several tasks are still in progress,  and there are unresolved bugs that need attention. The testing process,
+crucial for ensuring product quality, has not yet begun. 
+As a software engineer involved in the project, what aspects could have been 
+handled better to prevent the delays and issues experienced, such as incomplete tasks, unresolved bugs, 
+and a delayed testing process?
+
+Answer:
+The following aspects that could have been handled better are:
+    1. Detailed Planning
+    2. Task Management
+    3. Priorizations
+
+These 3 aspects i think the most important aspects of a project because when you have a complete and detailed planning it can lead your
+team to handle the project correctly and with a proper task management and priorizations your team can know what are the most important
+one to do or the one that need an action imeediately.
+
+Additionaly, for me the most important one is to implement an agile development methodology for flexibility in managing changes.
